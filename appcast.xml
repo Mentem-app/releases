@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Mentem</title>
+        <item>
+            <title>1.0.1</title>
+            <pubDate>Wed, 02 Sep 2026 23:11:56 -0700</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Mentem-app/releases/releases/download/v1.0.1/Mentem-1.0.1.dmg" length="4756211" type="application/octet-stream" sparkle:edSignature="ZMCcpT9ocOgvYPwGSB1BZ7SXrIxC05RdFSHv7S4+72hkyP4vyq4wf/2y41gF6KrbQGwqO8Dm1y4A2oSjGGLOAg=="/>
+        </item>
+    </channel>
+</rss>
