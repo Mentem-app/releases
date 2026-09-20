@@ -3,12 +3,12 @@
     <channel>
         <title>Mentem</title>
         <item>
-            <title>1.0.40</title>
-            <pubDate>Sun, 20 Sep 2026 06:47:21 +0000</pubDate>
-            <sparkle:version>32</sparkle:version>
-            <sparkle:shortVersionString>1.0.40</sparkle:shortVersionString>
+            <title>1.0.41</title>
+            <pubDate>Sun, 20 Sep 2026 17:55:00 +0000</pubDate>
+            <sparkle:version>33</sparkle:version>
+            <sparkle:shortVersionString>1.0.41</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Mentem-app/releases/releases/download/v1.0.40/Mentem-1.0.40.dmg" length="14087795" type="application/octet-stream" sparkle:edSignature="ajrNYJgqEddJwoKYAN3bz0v0hZWF0YPM6YoqaBtq5uKmIhAB5+1bfHSsf6fRAnXKOwMV10xSPrT3whOzzBSxBA=="/>
+            <enclosure url="https://github.com/Mentem-app/releases/releases/download/v1.0.41/Mentem-1.0.41.dmg" length="14011511" type="application/octet-stream" sparkle:edSignature="KvBS8kYKfiFd5fNtB8dIFHCOSTtNY+npCTVuvQdikS813305gppx0CqnruIaTjVmJx7sKDxvVHAaIW2BE9kDBg=="/>
         </item>
     </channel>
 </rss>
