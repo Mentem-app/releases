@@ -6,7 +6,7 @@
 
 Mentem is a durable cloud computer for your AI coding agent. Leave it running overnight, start a job from your phone, and pick it up later without babysitting your laptop.
 
-**[Download for Mac](https://github.com/Mentem-app/releases/releases/latest)** · [All releases](https://github.com/Mentem-app/releases/releases) · [Get updates](https://mentem.app/updates)
+**[Download for Mac](https://github.com/Mentem-app/releases/releases/latest)** · [Website](https://mentem.app/) · [Join the waitlist](https://mentem.app/updates) · [All releases](https://github.com/Mentem-app/releases/releases)
 
 ## Start a job. Walk away. Come back.
 
