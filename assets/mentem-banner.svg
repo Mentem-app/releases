@@ -1,28 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" fill="none">
-  <title>Mentem — Humans and agents. One room.</title>
-  <desc>Mentem's blue release banner, with three paths joining a shared conversation.</desc>
+  <title>Mentem — A cloud for your agent that stays on when your laptop doesn’t.</title>
+  <desc>Mentem wordmark and product headline on a blue background.</desc>
   <rect width="1280" height="440" rx="20" fill="#011BD8"/>
-  <g stroke="#F5F3EB" stroke-width="1" opacity=".16">
-    <path d="M800 0V440M960 0V440M1120 0V440M1280 100H800M1280 220H800M1280 340H800"/>
-  </g>
   <g font-family="Arial, Helvetica, sans-serif" fill="#F5F3EB">
     <text x="64" y="76" font-size="30" font-weight="700" letter-spacing="-1">Mentem</text>
-    <text x="65" y="141" font-size="12" letter-spacing="3" opacity=".7">THE MAC APP</text>
-    <text x="60" y="215" font-size="62" font-weight="700" letter-spacing="-2.8">Humans and agents.</text>
-    <text x="60" y="285" font-size="62" font-weight="700" letter-spacing="-2.8">One room.</text>
-    <text x="64" y="371" font-size="20" opacity=".8">Every handoff in one thread.</text>
+    <text x="60" y="187" font-size="64" font-weight="700" letter-spacing="-2">A cloud for your agent</text>
+    <text x="60" y="262" font-size="64" font-weight="700" letter-spacing="-2">that stays on when</text>
+    <text x="60" y="337" font-size="64" font-weight="700" letter-spacing="-2">your laptop doesn’t.</text>
   </g>
-  <g stroke="#F5F3EB" stroke-width="2">
-    <path d="M857 100H923C965 100 965 220 1007 220H1135" opacity=".55"/>
-    <path d="M857 220H1135" opacity=".85"/>
-    <path d="M857 340H923C965 340 965 220 1007 220" opacity=".55"/>
-  </g>
-  <circle cx="857" cy="100" r="17" fill="#011BD8" stroke="#F5F3EB" stroke-width="2"/>
-  <circle cx="857" cy="220" r="17" fill="#F5F3EB"/>
-  <rect x="843" y="326" width="28" height="28" rx="6" fill="#011BD8" stroke="#F5F3EB" stroke-width="2"/>
-  <rect x="1087" y="172" width="96" height="96" rx="26" fill="#F5F3EB"/>
-  <path d="M1111 201H1159V232H1139L1127 244V232H1111V201Z" stroke="#011BD8" stroke-width="3" stroke-linejoin="round"/>
-  <circle cx="1123" cy="217" r="2.5" fill="#011BD8"/>
-  <circle cx="1135" cy="217" r="2.5" fill="#011BD8"/>
-  <circle cx="1147" cy="217" r="2.5" fill="#011BD8"/>
 </svg>
